@@ -19,7 +19,7 @@ function Popular() {
     <WrapperDiv>
       <h3>Popular Picks</h3>
       <Splide options={{
-        perPage: 5,
+        perPage: 4,
         arrows: true,
         pagination: true,
         perMove: 1,

@@ -36,7 +36,7 @@ justify-content: flex-start;
 align-items: center;
 svg{
   font-size: 2rem;
-  color: crimson
+  color: crimson;
 }
 `
 const Container = styled.div`
